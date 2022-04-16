@@ -1,5 +1,5 @@
-Заходим на [ГУГЛО-ФОРМУ](https://forms.gle/xa1PFTrPVJsYpBJG7) и видим 9 зашифрованных флагов
-![forma](attachments/form.png)
+Заходим на [ГУГЛО-ФОРМУ](https://forms.gle/xa1PFTrPVJsYpBJG7) и видим 9 зашифрованных флагов:  
+![forma](attachments/form.jpg)
 Заходим на [Кибер Шеф](https://gchq.github.io/CyberChef/)
 __И начинаем расшифровывать:__
 
@@ -28,8 +28,3 @@ __И начинаем расшифровывать:__
 
 
 9 - [c3VyY3RmX2Jhc2U2NF9zb19jb29sX2tlaw==](https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true)&input=YzNWeVkzUm1YMkpoYzJVMk5GOXpiMTlqYjI5c1gydGxhdz09) - ___surctf_base64_so_cool_kek___ - __base64__
-
-
-![sorted](attachments/sorted.png)
-Убираем лишнее, получаем флаг:
-> surctf_mehehe_best_clang_proger
