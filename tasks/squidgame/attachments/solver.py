@@ -1,13 +1,5 @@
-Видим nc, значит вводим в терминал всю команду из задания целиком и ждем чуда...  
-![first_connect](./attachments/first_connect.png)  
-Чуда не произошло, но мы видим пришлашение выбрать 0 или 1  
+#by maksp
 
-Подбирать их вручную конечно же весело, но слишком долго, поэтому напишем скрипт для автоматизации процесса
-[solver.py](./attachments/solver.py)
-> это был второй таск, который мне пришлось решать на питоне, поэтому ненависть к этому языку поубавилась
-
-Если вдруг лень переходить по ссылке выше, то держите:
-``` python
 from operator import contains
 import pwn
 
@@ -49,10 +41,5 @@ while True:
                 conn.interactive()
         finally:
                 conn.close()
-```
 
-Ждем где-то пару часов и видим:
-![solved](./attachments/solved.png)
-
-Для самых нетерпеливых
-> surctf_haha_you_w1nn3d_6u7_n0t_m0n3y
+#by maksp
