@@ -51,7 +51,7 @@ while True:
                 conn.close()
 ```
 
-Ждем где-то пару часов и видим:
+Ждем пару часов и видим:
 ![solved](./attachments/solved.png)
 
 Для самых нетерпеливых
