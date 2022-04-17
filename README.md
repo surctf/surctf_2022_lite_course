@@ -30,8 +30,8 @@
 [1337_ЦТФерс_ДБ_3](tasks/ctf_db_3) (WEB 150)  
   
 ## Организаторы
-* [Максим Заказчик](https://github.com/s4lat) — преподаватель и разработчик тасков __#RECON__ и __#PPC__  
-* [Егор Захаров](https://github.com/pigadoor) — преподаватель и разработчик тасков __#CRYPTO__ и __#FORENSIC__  
-* [Эдуард Юнусов](https://github.com/Killllero0) — преподаватель и разработчик тасков __#STEGANO__  
-* [Сергей Кацур](https://github.com/richkats) — преподаватель и разработчик тасков __#WEB__  
-* [Евгений Живайкин](https://github.com/EZhivaikin) — преподаватель, разработчик платформы и разработчик тасков __#REVERSE__  
+* [Максим Заказчик](https://github.com/s4lat) — преподаватель и разработчик тасков `#RECON` и `#PPC`  
+* [Егор Захаров](https://github.com/pigadoor) — преподаватель и разработчик тасков `#CRYPTO` и `#FORENSIC`  
+* [Эдуард Юнусов](https://github.com/Killllero0) — преподаватель и разработчик тасков `#STEGANO`  
+* [Сергей Кацур](https://github.com/richkats) — преподаватель и разработчик тасков `#WEB`  
+* [Евгений Живайкин](https://github.com/EZhivaikin) — преподаватель, разработчик платформы и разработчик тасков `#REVERSE`  
