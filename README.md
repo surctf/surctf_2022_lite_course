@@ -1,4 +1,4 @@
-#surctf_lite_2022_writeups [⠀](https://youtu.be/dQw4w9WgXcQ)
+# surctf_lite_2022_writeups [⠀](https://youtu.be/dQw4w9WgXcQ)
 
 [Результаты](http://surctf.ru:8888)  
   
