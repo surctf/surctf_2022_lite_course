@@ -1,4 +1,4 @@
-Качаем [текст](https://filebin.ca/6d0fbvIFew4S/text.txt) , открываем его, видим кучу капибары:
+Качаем [текст](attachments/text.txt) , открываем его, видим кучу капибары:
 ![kapibara](attachments/kapibara.jpg)
 __1.УДАЛЯЕМ ВСЮ КАПИБАРУ  : D__  
 ![netkapibara](attachments/netkapibara.jpg)

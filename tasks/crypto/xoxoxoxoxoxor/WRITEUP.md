@@ -1,4 +1,4 @@
-__1.Скачиваем [input](https://filebin.ca/6d0ew5Nz9qUm/input.txt) и [output](https://filebin.ca/6d0fKkd72GrM/output.raw)__  
+__1.Скачиваем [input](attachments/input.txt) и [output](attachments/output.raw)__  
 1.1.Заходим на [КуберШеф](https://gchq.github.io/CyberChef/)  
 __2.Начинаем расшифровывать__  
 2.1.Добавляем в рецепт __XOR__  

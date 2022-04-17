@@ -1,4 +1,4 @@
-Качаем [фото](https://drive.google.com/file/d/1B8qmaIvU0DRYQVyBNAWxZMzZqg4qfmut/view?usp=sharing)  
+Качаем [фото](./attachments/IMG_20220312_142439.jpg)  
 Открываем любой сайт где можно достать мета-данные файла к примеру [exifdata](https://exifdata.com/exif.php)  
 __1. Загружаем наше фото и смотрим координаты:__  
 ![1](attachments/1.jpg)  
