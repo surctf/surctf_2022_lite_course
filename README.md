@@ -1,10 +1,6 @@
 # surctf_lite_2022_writeups [⠀](https://youtu.be/dQw4w9WgXcQ)
 
 [Результаты](http://surctf.ru:8888)  
-
-## Авторы решений
-* [Богдан Сторож](https://github.com/Bogdan0110)
-* [Максим Петухов](https://github.com/maksp86)
   
 ## Таски  
 ### `#FORENSIC`  
@@ -31,11 +27,16 @@
 ### `#WEB`  
 [1337_ЦТФерс_ДБ_1](tasks/web/ctf_db_1) (WEB **150**)  
 [1337_ЦТФерс_ДБ_2](tasks/web/ctf_db_2) (WEB **150**)  
-[1337_ЦТФерс_ДБ_3](tasks/web/ctf_db_3) (WEB **150**)  
+[1337_ЦТФерс_ДБ_3](tasks/web/ctf_db_3) (WEB **150**)
+
+## Авторы решений
+* [Богдан Сторож](https://github.com/Bogdan0110)
+* [Максим Петухов](https://github.com/maksp86)
   
-## Организаторы
+## Организаторы ктф
 * [Максим Заказчик](https://github.com/s4lat) — преподаватель и разработчик тасков `#RECON` и `#PPC`  
 * [Егор Захаров](https://github.com/pigadoor) — преподаватель и разработчик тасков `#CRYPTO` и `#FORENSIC`  
 * [Эдуард Юнусов](https://github.com/Killllero0) — преподаватель и разработчик тасков `#STEGANO`  
 * [Сергей Кацур](https://github.com/richkats) — преподаватель и разработчик тасков `#WEB`  
 * [Евгений Живайкин](https://github.com/EZhivaikin) — преподаватель, разработчик платформы и разработчик тасков `#REVERSE`
+
