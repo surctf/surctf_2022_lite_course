@@ -30,7 +30,7 @@
 [1337_ЦТФерс_ДБ_3](tasks/web/ctf_db_3) (WEB **150**)
 
 ## Авторы решений
-* [Богдан Сторож](https://github.com/Bogdan0110)
+* [Богдан Сторож](https://github.com/Klr1to)
 * [Максим Петухов](https://github.com/maksp86)
   
 ## Организаторы ктф
